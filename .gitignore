@@ -1,0 +1,5 @@
+# Ignore Composer's vendor directory
+/vendor/
+
+# Ignore configuration files with sensitive data
+/includes/koneksi.php
