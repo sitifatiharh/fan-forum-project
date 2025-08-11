@@ -21,13 +21,8 @@ Ensure you have the following packages installed:
 #### Steps
 1.  **Clone the Repository:**
     ```bash
-<<<<<<< HEAD
-    git clone [https://github.com/fan-forum-project/exocafe.git](https://github.com/your-repo-name/exocafe.git)
-    cd exocafe
-=======
     git clone git clone https://github.com/sitifatiharh/fan-forum-project.git
     cd fan-forum-project
->>>>>>> 20a5cfe882ee6d5294955abbff1e83db10549471
     ```
 
 2.  **Database Configuration:**
